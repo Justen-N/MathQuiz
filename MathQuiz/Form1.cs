@@ -26,7 +26,7 @@ namespace MathQuiz
         int dividend;
         int divisor;
         DateTime curDate = DateTime.Now;
-        SoundPlayer victory = new SoundPlayer(@"C:\Users\Justen\source\repos\MathQuiz\MathQuiz\bin\FF7_Victory.wav");
+        SoundPlayer victory = new SoundPlayer(@"D:\Users\Justen\source\repos\MathQuiz\MathQuiz\bin\Mario Coin.wav");
         
         public void startTheQuiz()
         {
